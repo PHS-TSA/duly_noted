@@ -287,7 +287,7 @@ jobs:
           set-safe-directory: true
 
       - name: 🪄 Spell Check
-        uses: streetsidesoftware/cspell-action@245201e3f58019204d99920deeb78aade6724230 # v6.6.0
+        uses: streetsidesoftware/cspell-action@2db9e5fb6d08776bed383767ef4e5dd84650546c # v6.7.1
         with:
           files: |
             **/*.md
