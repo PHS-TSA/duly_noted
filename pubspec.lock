@@ -62,16 +62,16 @@ packages:
     description:
       path: auto_route
       ref: master
-      resolved-ref: ab219cf7dd717dd359d88b9e5000048179bbaeb3
+      resolved-ref: "85e2e9d7ff768d5f80044e8cc6eb3dc9a530026e"
       url: "https://github.com/pedromneto97/auto_route_library.git"
     source: git
-    version: "8.1.3"
+    version: "8.1.4"
   auto_route_generator:
     dependency: "direct dev"
     description:
       path: auto_route_generator
       ref: master
-      resolved-ref: ab219cf7dd717dd359d88b9e5000048179bbaeb3
+      resolved-ref: "85e2e9d7ff768d5f80044e8cc6eb3dc9a530026e"
       url: "https://github.com/pedromneto97/auto_route_library.git"
     source: git
     version: "8.0.0"
