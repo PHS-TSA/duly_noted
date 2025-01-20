@@ -5,6 +5,9 @@
 
 Better reminders for busy people.
 
+> [!IMPORTANT]
+> Duly Noted has been deprecated in favor of [PetalNotes] (name WIP).
+
 ## Why?
 
 In theory, we love the idea of digital reminders.
@@ -32,6 +35,7 @@ With a defintion regarding doing things at the [right time][right-time], it felt
 [ci_dart_badge]: https://github.com/PHS-TSA/duly_noted/actions/workflows/ci.yaml/badge.svg?branch=main
 [ci_dart_link]: https://github.com/PHS-TSA/duly_noted/actions/workflows/ci.yaml
 [discussions]: https://github.com/PHS-TSA/duly_noted/discussions
+[PetalNotes]: https://github.com/PSDTools/psdtools.github.io/tree/main/apps/petal-notes
 [right-time]: https://x.com/evancz/status/928359227541798912
 [very_good_analysis_badge]: https://img.shields.io/badge/style-very_good_analysis-B22C89.svg
 [very_good_analysis_link]: https://pub.dev/packages/very_good_analysis
